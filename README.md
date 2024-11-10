@@ -245,7 +245,7 @@ footer {
 
 ![Screenshot 2024-11-10 230309](https://github.com/user-attachments/assets/31b6a3ba-9a37-4e01-87c2-a63782f50e09)
 
-![Screenshot 2024-11-10 230320](https://github.com/user-attachments/assets/bf99da6d-c417-4baf-a581-754bb0d1fd0a)
+![Screenshot 2024-11-10 231137](https://github.com/user-attachments/assets/410e2daa-6185-4b11-8ed9-03467025618c)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

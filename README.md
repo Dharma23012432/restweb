@@ -241,11 +241,10 @@ footer {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-26 084839](https://github.com/user-attachments/assets/5407b7bd-2a0b-4129-a649-a0a248b63e92)
 
-![Screenshot 2024-11-11 110238](https://github.com/user-attachments/assets/9ed4deb2-b1cd-48b2-86ba-b6f0c8fe26dc)
+![Screenshot 2024-11-12 172326](https://github.com/user-attachments/assets/6f711864-794f-424e-a64c-dc6e7a62d961)
 
-![Screenshot 2024-11-11 110247](https://github.com/user-attachments/assets/bac435b9-cc7e-4e6e-bef8-198480280365)
+![Screenshot 2024-11-12 172340](https://github.com/user-attachments/assets/8eeeda3d-4ab7-4c9e-8b96-e5510ec84075)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
